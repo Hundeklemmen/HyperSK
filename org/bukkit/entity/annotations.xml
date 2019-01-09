@@ -1,0 +1,5 @@
+<root>
+    <item name='org.bukkit.entity.Player'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>

@@ -1,0 +1,6 @@
+name: HyperSK
+description: Hypermc
+main: hundeklemmen.SkriptAddon.hypermc
+version: 0.0.1
+website: https://hypermc.dk
+depend: [Skript]
